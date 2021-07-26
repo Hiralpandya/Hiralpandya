@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiralpandya
 - 👀 I’m interested in learning different types of testing
-- 🌱 I’m currently learning Automation testing with java and javascript
+- 🌱 I’m currently learning Automation testing with java
 - 💞️ I’m looking to collaborate on interesting projects testing
 - 📫 How to reach me hiralp.se@gmail.com
 
